@@ -1,2 +1,5 @@
 # cse5717_f20_TeamProject
- Team Project - Collaborative Code
+
+<p>
+  CSE 5717 Team Project - Collaborative Code
+</p> 
